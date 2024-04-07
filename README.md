@@ -18,7 +18,7 @@ You control the character, he is in the lower left corner, with arrows, when you
 
 * Download repository as ZIP
 * Unzip anywhere 
-* Run main.py with python3 
+* Run maze.py with python3 
 
 
 ## Authors
